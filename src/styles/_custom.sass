@@ -32,7 +32,8 @@
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: $color-sistema-texto !important  
 
-.boton *, .boton--sm *
+.boton *, .boton--sm *,
+.barra-avance__boton--regresar span
   color: $white !important
 .banner-interno__titulo h1, .banner-interno__titulo h2, 
 .banner-interno__titulo h3, .banner-interno__titulo h4, 
@@ -46,26 +47,167 @@ figcaption
 .banner-interno__titulo__icono i
     color: $color-acento-botones !important;
 
+.tabla-b.color-primario thead tr
+    background-color: $color-primario !important
+.tabla-b.color-primario thead tr th
+    text-align: center !important
+.tabla-b tr:nth-child(even), .tabla-c tr:nth-child(even)
+    background-color: #fff !important
+.tabla-b tr:nth-child(odd), .tabla-c tr:nth-child(odd)
+    background-color: #F6F6F6
+
+.acordion__accion__btn--a 
+    background-color: $color-acento-botones !important;
+    color: $white !important;
+.tarjeta.bg-brown
+  background-color: #F9D2AD
+.tarjeta.bg-brown.acordion__activo
+  background-color: #EBE7E5
+
+.lista-ul--color li > i.icon-list:first-of-type 
+    color: $color-sistema-texto !important;
+    font-size: 7px;
+    top: 9px !important
+
+.tabs-c 
+    border-bottom: 0px
+.tabs-c.color-primario .tabs-c__tab
+    background-color: #FEF4EA
+    border-bottom-color: $color-primario
+
+.tabs-c.color-primario .tabs-c__tab--active
+    background-color: #EBE7E5
+    border-bottom-color: $color-acento-botones !important
+.tabs-c.color-primario .tabs-c__tab--active:before
+    border-top-color: $color-acento-botones !important
+.tabs-c.color-primario .tabs-c__tab--active span
+    font-weight: bold !important
+
+.tabla-b.wcus-tabla table
+    min-width: auto
+.tabla-b.wcus-tabla td
+    text-align: center
+
+.slyder-f__btn i
+    color: $color-acento-botones
+.linea-tiempo-d .tarjeta 
+  background-color: #FEF4EA 
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #EBE7E5 !important
+.linea-tiempo-c__header__btn, .pasos-b__header__btn--left, .pasos-b__header__btn--right, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+    border: 0px
+    background-color: $color-acento-botones
+    color: $white !important
+.pasos-b__header__item--before .pasos-b__header__item__dot,
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after,
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+    background-color: #19632C
+    border: 0px
 
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
 .p-full-width
-  padding: 3rem 2.5rem!important;
+  padding: 3rem 3.5rem!important;
 .bg-full-width
   background-size: cover
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
+.bg-fondo
+  &-1
+    background-image: url(../assets/curso/bg/3.svg)
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: bottom
+  &-2
+    background-image: url(../assets/curso/bg/4.svg)
+  &-3
+    background-image: url(../assets/curso/bg/5.svg)
 .bg-color
   &-1
-    background-color: #D0D6F5
+    background-color: #FEF4EA
+  &-2
+    background-color: #F9D2AD
+  &-3
+    background-color: $color-primario
+  &-4
+    background-color: #F6E7E5
+  &-5
+    background-color: #fff
 
 .br
   &-1
     border-top-left-radius: 80px !important
   &-2
     border-top-left-radius: 50px !important
+  &-3
+    border-top-right-radius: 80px !important
+  &-4
+    border-top-left-radius: 60px !important
+    border-top-right-radius: 20px !important
+    border-bottom-right-radius: 20px !important
+    border-bottom-left-radius: 20px !important
+  &-5
+    border-radius: 30px !important
+.wcus
+  &-1
+    min-width: 400px;
+  &-2
+    width: 14%
+  &-3
+    width: 93%
+
+.fw-italic
+  font-style: italic !important
+.tit-icon
+  &:after
+    background-image: url(../assets/curso/bg/2.svg)
+    background-repeat: no-repeat
+    margin-top: 7px
+    width: 40%
+    height: 20px;
+    content: "";
+    display: block;
+    position: absolute;
+ 
+    
+
+.titulo-tercer-nivel
+  width: fit-content
+  max-width: 100%
+  position: relative
+  display: inline-flex
+  align-items: center
+  background-color: $color-primario
+  border-radius: 30px
+  padding-right: 16px
+  padding-left: 52px
+  min-height: 48px
+ 
+  @media screen and (max-width: $bp-min-md)
+    padding-left: 0px
+
+
+  &__icon
+    position: absolute
+    left: -10px
+    top: 40%
+    transform: translateY(-50%)
+    width: 65px
+    max-width: 65px
+    height: auto
+
+    @media screen and (max-width: $bp-min-md)
+      display: none
+
+  &__text
+    margin: 0
+    margin: 0 15px 0 15px
+    white-space: normal
+    word-break: break-word
+
+
 
 
 /**************************************************************/
@@ -96,10 +238,8 @@ figcaption
     padding-top: 1.5rem !important;
     padding-bottom: 1.5rem !important;
   .br
-    &-1
-      border-top-left-radius: 40px !important
-    &-2
-      border-top-left-radius: 20px !important
+    &-1,&-2,&-3,&-4
+      border-radius: 0px !important
 
   
 
@@ -107,4 +247,8 @@ figcaption
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
+  .tit-icon
+    &:after
+      width: 85%
+  
  
