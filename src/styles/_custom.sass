@@ -109,6 +109,12 @@ figcaption
     background-color:#E7EFE9
 .cajon.color-secundario
     background-color:#F6E7E5
+
+.tarjeta--boton
+    background-color: #E7EFE9
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto
+    color: $color-sistema-texto
+    font-style: normal !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -162,6 +168,11 @@ figcaption
     width: 14%
   &-3
     width: 93%
+  &-4
+    width: 32px !important  
+.hcard
+  &-1
+    height: 400px
 
 .fw-italic
   font-style: italic !important
@@ -213,7 +224,29 @@ figcaption
     word-break: break-word
 
 
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
 
+  .crd_hover_txt--body
+    position: absolute
+    padding: 0.8rem 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.3rem ))
+    background-color: #EBE7E5
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
 
 /**************************************************************/
 /*Media Queries*/  
@@ -232,6 +265,9 @@ figcaption
     width: 90% !important
   .bloque-texto-g 
         padding-top: 50px !important;
+  .hcard
+    &-1
+      height: auto !important
   
  
   
