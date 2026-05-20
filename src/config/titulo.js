@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Saberes agroecológicos y construcción colectiva del conocimiento territorial.'

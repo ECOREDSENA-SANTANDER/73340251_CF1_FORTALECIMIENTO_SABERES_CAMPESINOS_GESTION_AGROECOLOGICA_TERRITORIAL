@@ -5,7 +5,27 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Territorio, ambiente y suelo
+
+    Separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.1 Conocimiento campesino
+
+    Separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.2 Territorio (dimensión ecológica, cultural y productiva)
+
+    Separador
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.3 Agroecosistemas y ambiente
+
+    Separador
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.4 El suelo
+
+    Separador
+    #t_2_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.5 Normativa agropecuaria en Colombia
 
 </template>
 

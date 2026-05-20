@@ -5,7 +5,23 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Metodología Campesino a Campesino – CAC
+
+    Separador
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 3.1 Concepto, objetivos y principios
+
+    Separador
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 3.2 Roles
+
+    Separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 3.3 Estrategias pedagógicas participativas
+
+    Separador
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 3.4 Actividades
 
 </template>
 
