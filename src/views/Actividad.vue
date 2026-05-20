@@ -25,11 +25,11 @@ export default {
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
-      reguntas: [
+      preguntas: [
         {
           id: 1,
           texto: '¿Qué es la agroecología?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -62,7 +62,7 @@ export default {
         {
           id: 2,
           texto: '¿Cuál es uno de los principios de la agroecología?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -94,7 +94,7 @@ export default {
         {
           id: 3,
           texto: 'La diversificación en agroecología busca:',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -126,7 +126,7 @@ export default {
         {
           id: 4,
           texto: 'El reciclaje de nutrientes consiste en:',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -158,7 +158,7 @@ export default {
         {
           id: 5,
           texto: 'Las sinergias biológicas permiten:',
-          imagen: require('@/assets/actividad/imagen5.png'),
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -190,7 +190,7 @@ export default {
         {
           id: 6,
           texto: 'La resiliencia en agroecología se refiere a:',
-          imagen: require('@/assets/actividad/imagen6.png'),
+          imagen: '@/assets/actividad/imagen6.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -222,7 +222,7 @@ export default {
         {
           id: 7,
           texto: 'El enfoque territorial permite:',
-          imagen: require('@/assets/actividad/imagen7.png'),
+          imagen: '@/assets/actividad/imagen7.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -254,7 +254,7 @@ export default {
         {
           id: 8,
           texto: 'Los saberes campesinos son:',
-          imagen: require('@/assets/actividad/imagen8.png'),
+          imagen: '@/assets/actividad/imagen8.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -286,7 +286,7 @@ export default {
         {
           id: 9,
           texto: 'Un ejemplo de saber campesino es:',
-          imagen: require('@/assets/actividad/imagen9.png'),
+          imagen: '@/assets/actividad/imagen9.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -318,7 +318,7 @@ export default {
         {
           id: 10,
           texto: 'La relación cultura-territorio-producción implica:',
-          imagen: require('@/assets/actividad/imagen10.png'),
+          imagen: '@/assets/actividad/imagen10.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -350,7 +350,7 @@ export default {
         {
           id: 11,
           texto: 'La metodología CAC significa:',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -382,7 +382,7 @@ export default {
         {
           id: 12,
           texto: 'La CAC se basa en:',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -414,7 +414,7 @@ export default {
         {
           id: 13,
           texto: 'El diagnóstico participativo permite:',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -446,7 +446,7 @@ export default {
         {
           id: 14,
           texto: 'Los líderes campesinos en la CAC son:',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -478,7 +478,7 @@ export default {
         {
           id: 15,
           texto: 'El intercambio de experiencias permite:',
-          imagen: require('@/assets/actividad/imagen5.png'),
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -510,7 +510,7 @@ export default {
         {
           id: 16,
           texto: 'La experimentación en CAC consiste en:',
-          imagen: require('@/assets/actividad/imagen6.png'),
+          imagen: '@/assets/actividad/imagen6.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -542,7 +542,7 @@ export default {
         {
           id: 17,
           texto: 'La evaluación colectiva busca:',
-          imagen: require('@/assets/actividad/imagen7.png'),
+          imagen: '@/assets/actividad/imagen7.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -574,7 +574,7 @@ export default {
         {
           id: 18,
           texto: 'La replicación en CAC implica:',
-          imagen: require('@/assets/actividad/imagen8.png'),
+          imagen: '@/assets/actividad/imagen8.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -606,7 +606,7 @@ export default {
         {
           id: 19,
           texto: 'El diálogo de saberes consiste en:',
-          imagen: require('@/assets/actividad/imagen9.png'),
+          imagen: '@/assets/actividad/imagen9.png',
           barajarRespuestas: true,
           opciones: [
             {
@@ -638,7 +638,7 @@ export default {
         {
           id: 20,
           texto: 'Una estrategia pedagógica participativa es:',
-          imagen: require('@/assets/actividad/imagen10.png'),
+          imagen: '@/assets/actividad/imagen10.png',
           barajarRespuestas: true,
           opciones: [
             {

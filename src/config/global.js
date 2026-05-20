@@ -217,7 +217,7 @@ export default {
         'variedad de especies vegetales, animales y microorganismos presentes en un sistema productivo.',
     },
     {
-      termino: 'Campesino  campesino (cac)',
+      termino: 'Campesino  campesino (CAC)',
       significado:
         'metodología participativa basada en el intercambio de conocimientos entre productores.',
     },
@@ -284,8 +284,24 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'AgriculturaWiki. (s.f.). ¿Cuál es la diferencia entre agricultura convencional y agroecología?: Ventajas de la agroecología vs agricultura convencional. ',
+    },
+    {
+      referencia:
+        'ControlBio. (2025, febrero 10). Microorganismos beneficiosos en los suelos cultivados. ControlBio.',
+    },
+    {
+      referencia:
+        'Fundación para el Desarrollo Socioeconómico y Restauración Ambiental (FUNDESYRAM). (2020). La metodología campesino / campesino (CAC).',
+    },
+    {
+      referencia:
+        'Fundación Fepropaz. (2024, octubre 13). Agroecología vs. agricultura convencional: ¿Cuál es la mejor para el futuro de la agricultura? ',
+    },
+    {
+      referencia:
+        'Un Mundo Sostenible. (2025, mayo 29). Agroecología vs. agricultura convencional.',
     },
   ],
   creditos: [
@@ -293,12 +309,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Claudia Johanna Gómez Pérez',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Responsable de línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -308,9 +325,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Andrés Javier Pacheco Wandurraga',
+          cargo: 'Experto temático',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Sandra Liliana Cristancho Cruz',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -318,18 +340,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Desarrollador <i>full stack</i>',
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -338,13 +360,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: '--',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: '--',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
