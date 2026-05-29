@@ -217,7 +217,7 @@ export default {
         'variedad de especies vegetales, animales y microorganismos presentes en un sistema productivo.',
     },
     {
-      termino: 'Campesino  campesino (CAC)',
+      termino: 'Campesino a campesino (CAC)',
       significado:
         'metodología participativa basada en el intercambio de conocimientos entre productores.',
     },
@@ -360,12 +360,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

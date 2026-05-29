@@ -47,8 +47,7 @@
 
 
     .cajon.color-secundario.p-4.mb-0(data-aos='fade-right')
-          .h5 Nota:
-          p.mb-0 Estas herramientas favorecen el aprendizaje activo, la reflexión y la apropiación del conocimiento.
+           p.mb-0 #[b Nota:] Estas herramientas favorecen el aprendizaje activo, la reflexión y la apropiación del conocimiento.
 
 
 
@@ -138,7 +137,7 @@
         .tarjeta.clr--pink.p-4.rounded-0.h-100
           .tarjeta.bg-white.p-4
             TarjetaAudio.color-acento-botones.mb-0.p-4(
-            texto="Pódcast: El arte de gestionar redes de colaboración"
+            texto="Pódcast: saberes en colaboración: integrando conocimiento tradicional y técnico en agroecología"
             :audio="podcast"
         )
 
@@ -225,8 +224,7 @@
 
 
     .cajon.color-acento-contenido.p-4.mb-0(data-aos='fade-right')
-      .h5 Nota:
-      p.mb-0 Una buena gestión de la información facilita la toma de decisiones, la evaluación de resultados y la mejora continua.
+       p.mb-0 #[b Nota:] Una buena gestión de la información facilita la toma de decisiones, la evaluación de resultados y la mejora continua.
 
 
 

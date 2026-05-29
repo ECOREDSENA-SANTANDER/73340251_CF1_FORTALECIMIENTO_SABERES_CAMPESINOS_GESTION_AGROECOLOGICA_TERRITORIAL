@@ -146,8 +146,7 @@
                     i.fas.fa-circle.icon-list
                     p.mb-0 Observación y análisis en campo. 
         .cajon.color-acento-contenido.p-4.mb-0
-          .h5 Nota:
-          p.mb-0 Estas estrategias permiten que el aprendizaje sea significativo y aplicable a la realidad de los participantes.
+           p.mb-0 #[b Nota:] Estas estrategias permiten que el aprendizaje sea significativo y aplicable a la realidad de los participantes.
 
 
     Separador

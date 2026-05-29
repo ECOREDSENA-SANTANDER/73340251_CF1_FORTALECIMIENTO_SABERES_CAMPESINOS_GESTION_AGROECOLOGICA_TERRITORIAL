@@ -51,8 +51,7 @@
 
 
     .cajon.color-acento-contenido.p-4.mb-0(data-aos='fade-right')
-      .h5 Nota:
-      p.mb-0 Estas dimensiones están interrelacionadas y determinan el uso y manejo de los recursos.
+      p.mb-0 #[b Nota:] Estas dimensiones están interrelacionadas y determinan el uso y manejo de los recursos.
 
 
 
@@ -69,8 +68,7 @@
           p.mb-0 Un agroecosistema es un sistema productivo donde interactúan componentes bióticos (plantas, animales, microorganismos) y abióticos (suelo, agua, clima), junto con la acción humana.
           p.mb-5 El ambiente está conformado por todos los factores que influyen en estos sistemas. Las prácticas agropecuarias pueden generar impactos positivos, como la conservación de la biodiversidad, o negativos, como la contaminación, la deforestación y la degradación del suelo.
           .cajon.color-secundario.p-4.mb-0
-            .h5 Nota:
-            p.mb-0 El enfoque agroecológico busca equilibrar estas interacciones para lograr sistemas productivos sostenibles.
+             p.mb-0 #[b Nota:] El enfoque agroecológico busca equilibrar estas interacciones para lograr sistemas productivos sostenibles.
 
 
 

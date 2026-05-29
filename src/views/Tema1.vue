@@ -210,7 +210,7 @@
                   
 
 
-      h4.mb-5(data-aos='fade-right') Ejemplo de asociación benéfica de cultivos.
+      h4.mb-5(data-aos='fade-right') Ejemplo de asociación benéfica de cultivos
       .row.justify-content-center.align-items-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-10
           .titulo-sexto.color-acento-contenido
@@ -292,7 +292,7 @@
               img(src='@/assets/curso/temas/t1/9.svg', alt='La imagen presenta una infografía educativa sobre insectos benéficos controladores de plagas agrícolas, mostrando siete especies con ilustraciones científicas detalladas: Trichogramma (parasitoide de huevos), Coccinella septempunctata (mariquita depredadora de pulgones y cochinillas), Chrysoperla carnea (crisopa con larvas depredadoras generalistas), Episyrphus balteatus (sírfido depredador de pulgones), Carcelia spp (parasitoide de orugas) y Cotesia marginiventris (avispa parasitoide del gusano cogollero). El material está diseñado con fines didácticos para identificación entomológica en manejo integrado de plagas, incorporando nomenclatura científica binomial y fotografías realistas que facilitan el reconocimiento de estos organismos auxiliares en agroecosistemas. ')
 
 
-      h4.mb-5(data-aos='fade-right') Ejemplo de insectos benéficos.
+      h4.mb-5(data-aos='fade-right') Ejemplo de insectos benéficos
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos='fade-right')
         .tarjeta.bg-fondo-1.p-4
           .row.justify-content-center.mb-5
@@ -371,7 +371,7 @@
                   p.mb-0 Los hongos degradan compuestos orgánicos y facilitan la liberación de nutrientes como fósforo y potasio. Las micorrizas, en particular, establecen asociaciones con las raíces, mejorando la absorción de nutrientes y brindando protección frente a patógenos.`
             h4.mb-3 Control biológico
             p.mb-0 Algunos hongos actúan como agentes naturales de control al competir con microorganismos perjudiciales, disminuyendo su presencia y reduciendo el uso de agroquímicos.
-        .row.justify-content-center.mb-0.align-items-end(titulo="<i>Actinobacterias</i>")
+        .row.justify-content-center.mb-0.align-items-end(titulo="Actinobacterias")
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-0.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
@@ -462,13 +462,13 @@
                   p.mb-0 Capacidad de adaptación e innovación.
             p.mb-0 La resiliencia no solo se construye desde lo ecológico, sino también desde lo social, mediante el fortalecimiento de las comunidades rurales y sus capacidades organizativas.
 
-        .row.justify-content-center.mb-0.align-items-end(titulo="<i>Co-creación</i> de conocimiento")
+        .row.justify-content-center.mb-0.align-items-end(titulo="Cocreación de conocimiento")
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-5.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
                 img(src='@/assets/curso/temas/t1/22.svg', alt='')
               .col-sm-12.col-lg-11
-                  p.mb-0 La #[i co-creación] de conocimiento reconoce que el aprendizaje es un proceso colectivo donde se integran saberes técnicos y conocimientos tradicionales. Este principio es fundamental en la agroecología, ya que permite construir soluciones contextualizadas y pertinentes.
+                  p.mb-0 La cocreación de conocimiento reconoce que el aprendizaje es un proceso colectivo donde se integran saberes técnicos y conocimientos tradicionales. Este principio es fundamental en la agroecología, ya que permite construir soluciones contextualizadas y pertinentes.
             h4.mb-3 Se basa en:
             ul.lista-ul--color.mb-4
                 li.d-flex
@@ -483,7 +483,7 @@
                 li.d-flex.mb-0
                   i.fas.fa-circle.icon-list
                   p.mb-0 El aprendizaje colectivo.
-            p.mb-0 La #[i co-creación] de conocimiento fortalece la autonomía de los productores y promueve la innovación desde el territorio, articulándose directamente con la metodología Campesino a Campesino (CAC).
+            p.mb-0 La cocreación de conocimiento fortalece la autonomía de los productores y promueve la innovación desde el territorio, articulándose directamente con la metodología Campesino a Campesino (CAC).
 
 
 
@@ -518,7 +518,7 @@
               .bg-color-2.p-4.mb-4
                 p.mb-0 El territorio es una construcción integral donde interactúan componentes naturales, sociales, culturales y económicos. En el enfoque agroecológico, comprender estos elementos es clave para diseñar sistemas productivos sostenibles, ya que cada uno influye directamente en la forma en que se desarrollan las actividades agrícolas y en la calidad de vida de las comunidades rurales.
 
-              h4.mb-5.tit-icon Recursos naturales (suelo, agua, biodiversidad).
+              h4.mb-5.tit-icon Recursos naturales (suelo, agua, biodiversidad)
               p.mb-3 Los recursos naturales constituyen la base de los sistemas productivos agroecológicos. El suelo es el principal medio para el desarrollo de los cultivos, ya que aporta nutrientes, retiene agua y sostiene la actividad biológica. Su calidad depende de factores como la textura, estructura, contenido de materia orgánica y manejo adecuado.
               p.mb-3 El agua es un recurso esencial para la producción agrícola, influyendo en el crecimiento de las plantas y en la productividad. Su disponibilidad, calidad y manejo (riego, conservación, cosecha de agua) son determinantes para la sostenibilidad del sistema.
 
