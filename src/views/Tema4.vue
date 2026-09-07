@@ -137,7 +137,7 @@
         .tarjeta.clr--pink.p-4.rounded-0.h-100
           .tarjeta.bg-white.p-4
             TarjetaAudio.color-acento-botones.mb-0.p-4(
-            texto="Pódcast: saberes en colaboración: integrando conocimiento tradicional y técnico en agroecología"
+            texto="Pódcast. Saberes en colaboración: integrando conocimiento tradicional y técnico en agroecología"
             :audio="podcast"
         )
 
@@ -238,7 +238,7 @@
 </template>
 
 <script>
-import podcast from '@/assets/actividad/audio/success.mp3'
+import podcast from '@/assets/curso/temas/t4/podcast.mp3'
 export default {
   name: 'Tema4',
   data: () => ({
