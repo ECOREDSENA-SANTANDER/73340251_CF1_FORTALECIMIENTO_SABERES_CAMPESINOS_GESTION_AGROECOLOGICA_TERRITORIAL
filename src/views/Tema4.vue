@@ -60,7 +60,7 @@
     p.mb-5(data-aos='fade-right') Los talleres participativos son espacios de construcción colectiva de conocimiento.
     .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/8.png', alt='')
+          img(src='@/assets/curso/temas/t3/8.png')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-acento-botones.mb-0
             .row.mb-0(numero="1" titulo="Fases")
@@ -108,7 +108,7 @@
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
       .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t4/5.png', alt='')
+        img(src='@/assets/curso/temas/t4/5.png')
       .col-sm-12.col-lg-7
         p.mb-5 El diálogo de saberes es un proceso de interacción entre diferentes formas de conocimiento, especialmente entre el saber técnico (científico) y el saber tradicional (campesino). Este diálogo reconoce que ambos tipos de conocimiento son válidos y complementarios.
         p.mb-3 Se fundamenta en:
@@ -162,30 +162,30 @@
         .crd_hover_txt(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
-              img(src="@/assets/curso/temas/t4/7.png", alt="")
+              img(src="@/assets/curso/temas/t4/7.png")
           .crd_hover_txt--body
             .d-flex.mb-4.align-items-center
-              img.wcus-4(src="@/assets/curso/temas/t4/10.svg", alt="")
+              img.wcus-4(src="@/assets/curso/temas/t4/10.svg")
               h4.mb-0.mx-3 Redes
             p.mb-0 Grupos de personas o comunidades que comparten información, recursos y experiencias. 
       .col-sm-12.col-lg-4.mb-cus
         .crd_hover_txt(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
-              img(src="@/assets/curso/temas/t4/8.png", alt="")
+              img(src="@/assets/curso/temas/t4/8.png")
           .crd_hover_txt--body
             .d-flex.mb-4.align-items-center
-              img.wcus-4(src="@/assets/curso/temas/t4/10.svg", alt="")
+              img.wcus-4(src="@/assets/curso/temas/t4/10.svg")
               h4.mb-0.mx-3 Organizaciones de base
             p.mb-0 Asociaciones, cooperativas o grupos comunitarios que trabajan por el desarrollo local. 
       .col-sm-12.col-lg-4.mb-cus
         .crd_hover_txt(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
-              img(src="@/assets/curso/temas/t4/9.png", alt="")
+              img(src="@/assets/curso/temas/t4/9.png")
           .crd_hover_txt--body
             .d-flex.mb-4.align-items-center
-              img.wcus-4(src="@/assets/curso/temas/t4/10.svg", alt="")
+              img.wcus-4(src="@/assets/curso/temas/t4/10.svg")
               h4.mb-0.mx-3 Relaciones sociales
             p.mb-0 Vínculos familiares, comunitarios y productivos que fortalecen la cohesión social. 
 
@@ -207,7 +207,7 @@
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
       .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t4/11.png', alt='')
+        img(src='@/assets/curso/temas/t4/11.png')
       .col-sm-12.col-lg-7
         p.mb-5 La gestión de la información es clave para el seguimiento, evaluación y mejora de los procesos productivos y formativos.
         .bg-color-1.p-4

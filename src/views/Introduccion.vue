@@ -9,13 +9,13 @@
       h1 Introducción
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/intro/1.png', alt='')
+        img(src='@/assets/curso/temas/intro/1.png')
       .col-sm-12.col-lg-7
           p.mb-0 La agricultura ha sido históricamente una actividad fundamental para el desarrollo de las sociedades rurales, estrechamente vinculada a los conocimientos, prácticas y tradiciones de las comunidades campesinas. En este contexto, la agroecología surge como un enfoque integral que reconoce la importancia del territorio, la biodiversidad y los saberes locales en la construcción de sistemas productivos sostenibles. Más allá de la producción de alimentos, la agroecología promueve relaciones equilibradas entre el ser humano, la naturaleza y la cultura. Sin embargo, los modelos agrícolas convencionales, caracterizados por el uso intensivo de insumos externos y la homogeneización de los sistemas productivos, han generado impactos negativos sobre los ecosistemas y han debilitado los conocimientos tradicionales. Esta situación ha evidenciado la necesidad de fortalecer enfoques alternativos que valoren los saberes campesinos y promuevan prácticas adaptadas a las condiciones específicas de cada territorio.
 
     .row.justify-content-center.mb-5.align-items-center(data-aos="fade-right")
       .col-sm-12.col-lg-1.d-none.d-lg-block
-        img(src='@/assets/curso/temas/intro/2.svg', alt='')
+        img(src='@/assets/curso/temas/intro/2.svg')
       .col-sm-12.col-lg-11
           p.mb-0 En este sentido, el estudio de los principios agroecológicos y su articulación con el enfoque territorial permite comprender las dinámicas productivas desde una perspectiva integral, donde se reconocen factores ambientales, sociales y culturales. La agroecología no solo se limita a técnicas de producción, sino que implica un proceso de construcción colectiva del conocimiento, en el cual los agricultores desempeñan un papel activo como generadores y transmisores de saberes.
 
@@ -32,7 +32,7 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/intro/1.png', alt='')
+        img(src='@/assets/curso/temas/intro/1.png')
       .col-sm-12.col-lg-7
           p.mb-4 Este componente formativo tiene como propósito desarrollar en el aprendiz las capacidades necesarias para interpretar los fundamentos de la agroecología, reconocer la importancia de los saberes campesinos y aplicar la metodología Campesino a Campesino como herramienta para la construcción colectiva del conocimiento. A través del estudio teórico y la aplicación práctica, se busca fortalecer habilidades orientadas al análisis territorial, el trabajo comunitario y la implementación de prácticas agroecológicas.
           p.mb-0 De esta manera, el proceso formativo contribuye no solo al desarrollo de competencias técnicas y sociales, sino también a la formación de aprendices comprometidos con el desarrollo territorial sostenible, la valorización de los saberes locales y la promoción de modelos productivos que respondan a los desafíos actuales del sector agropecuario.

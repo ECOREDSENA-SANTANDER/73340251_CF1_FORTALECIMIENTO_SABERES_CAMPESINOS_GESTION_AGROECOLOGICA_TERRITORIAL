@@ -8,7 +8,7 @@
       h1 Metodología Campesino a Campesino – CAC
     .row.justify-content-center.mb-0.align-items-center(data-aos="fade-right")
       .col-sm-12.col-lg-1.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t3/1.svg', alt='')
+        img(src='@/assets/curso/temas/t3/1.svg')
       .col-sm-12.col-lg-11
           p.mb-0 La metodología Campesino a Campesino (CAC) es una estrategia de aprendizaje participativo que promueve el intercambio de conocimientos entre productores rurales. Se basa en la idea de que los campesinos aprenden mejor a partir de la experiencia de otros campesinos, fortaleciendo así la autonomía, la organización comunitaria y la adopción de prácticas sostenibles.
 
@@ -68,7 +68,7 @@
 
 
       .col-sm-12.col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t3/2.png', alt='')
+        img(src='@/assets/curso/temas/t3/2.png')
 
 
 
@@ -122,11 +122,11 @@
     p.mb-5(data-aos="fade-right") Son métodos de enseñanza que fomentan la participación activa, el diálogo y el aprendizaje colectivo. Se caracterizan por ser dinámicas, prácticas y adaptadas al contexto local.
     .row.justify-content-center.mb-5.align-items-end(data-aos="fade-right")
       .col-sm-12.col-lg-3.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t3/6.png', alt='')
+        img(src='@/assets/curso/temas/t3/6.png')
       .col-sm-12.col-lg-9
         .row.justify-content-center.mb-3
           .col-sm-12.col-lg-6.d-none.d-lg-block.mx-0.px-0
-            img(src='@/assets/curso/temas/t3/7.svg', alt='')
+            img(src='@/assets/curso/temas/t3/7.svg')
           .col-sm-12.col-lg-6.bg-color-4.p-5
               p.mb-3 Entre las principales estrategias se encuentran:
               ul.lista-ul--color.mb-0
@@ -156,7 +156,7 @@
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/8.png', alt='')
+          img(src='@/assets/curso/temas/t3/8.png')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-acento-botones.mb-0
             .row.mb-0(numero="1" titulo="Talleres")

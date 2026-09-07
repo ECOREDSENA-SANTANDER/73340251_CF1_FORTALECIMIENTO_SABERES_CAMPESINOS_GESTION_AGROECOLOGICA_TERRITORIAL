@@ -14,11 +14,11 @@
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
       .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t2/1.png', alt='')
+        img(src='@/assets/curso/temas/t2/1.png')
       .col-sm-12.col-lg-7
         .row.justify-content-center.mb-5.align-items-center
           .col-sm-12.col-lg-2.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t2/2.svg', alt='')
+            img(src='@/assets/curso/temas/t2/2.svg')
           .col-sm-12.col-lg-10
               p.mb-0 El conocimiento campesino es el conjunto de saberes, prácticas y experiencias que han sido construidas por las comunidades rurales a lo largo del tiempo. Este conocimiento se basa en la observación directa de la naturaleza, la experimentación y la transmisión oral entre generaciones.
 
@@ -34,9 +34,9 @@
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t2/3.png', alt='')
+          img(src='@/assets/curso/temas/t2/3.png')
         .col-sm-12.col-lg-7.bg-color-3.p-4.br-3
-            img.wcus-2.mb-3(src='@/assets/curso/temas/t2/4.svg', alt='')
+            img.wcus-2.mb-3(src='@/assets/curso/temas/t2/4.svg')
             p.mb-3 El territorio es el espacio donde interactúan factores naturales, sociales y económicos. No solo se refiere al área geográfica, sino también a las relaciones que las comunidades establecen con su entorno.
             ul.lista-ul--color.mb-0
                 li.d-flex.mb-0
@@ -63,7 +63,7 @@
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
       .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t2/5.png', alt='')
+        img(src='@/assets/curso/temas/t2/5.png')
       .col-sm-12.col-lg-7
           p.mb-0 Un agroecosistema es un sistema productivo donde interactúan componentes bióticos (plantas, animales, microorganismos) y abióticos (suelo, agua, clima), junto con la acción humana.
           p.mb-5 El ambiente está conformado por todos los factores que influyen en estos sistemas. Las prácticas agropecuarias pueden generar impactos positivos, como la conservación de la biodiversidad, o negativos, como la contaminación, la deforestación y la degradación del suelo.
@@ -82,7 +82,7 @@
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/6.png', alt='')
+          img(src='@/assets/curso/temas/t2/6.png')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-acento-botones.mb-0
             .row.mb-0(numero="1" titulo="Uso del suelo")
@@ -131,9 +131,9 @@
     p.mb-5(data-aos='fade-right') La normativa agropecuaria en Colombia establece lineamientos para el uso adecuado de los recursos, el acceso a la tierra y el desarrollo rural sostenible.
     .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block.align-self-end
-          img(src='@/assets/curso/temas/t2/7.png', alt='')
+          img(src='@/assets/curso/temas/t2/7.png')
         .col-sm-12.col-lg-4.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t2/8.svg', alt='')
+          img(src='@/assets/curso/temas/t2/8.svg')
         .col-sm-12.col-lg-5.bg-color-4.px-5.pt-5
             p.mb-3 Entre las principales normas se destacan:
             ul.lista-ul--color.mb-3

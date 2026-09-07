@@ -6,7 +6,7 @@
         .titulo-principal__numero
           span 1
         h1 Fundamentos de la agroecología en el contexto territorial
-      img.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/t1/1.png', alt='')(data-aos='fade-right')
+      img.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/t1/1.png')(data-aos='fade-right')
       p.mb-0(data-aos='fade-right') Aborda los fundamentos de la agroecología desde un enfoque territorial, reconociendo la interacción entre los sistemas productivos, el entorno natural y los saberes campesinos. Permite comprender los principios agroecológicos y su aplicación en contextos específicos, fortaleciendo la relación entre cultura, territorio y producción para el desarrollo sostenible.
       
       
@@ -16,7 +16,7 @@
 
       .row.justify-content-center.mb-5.align-items-center(data-aos="fade-right")
         .col-sm-12.col-lg-1.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/2.svg', alt='')
+          img(src='@/assets/curso/temas/t1/2.svg')
         .col-sm-12.col-lg-11
             p.mb-0 Se presenta la agroecología como un enfoque que orienta la producción agrícola de manera sostenible, integrando la relación entre naturaleza, sociedad y producción, y resaltando su importancia para mejorar la productividad, conservar los recursos naturales y promover prácticas agrícolas más equilibradas y adaptadas al contexto rural.
 
@@ -27,7 +27,7 @@
               p.mb-4 La agroecología es una disciplina científica, un conjunto de prácticas agrícolas y un movimiento social. Como disciplina, estudia la interacción entre los componentes ecológicos y los sistemas agrícolas. Como práctica, promueve técnicas sostenibles basadas en procesos naturales. Como movimiento, impulsa la justicia social, la soberanía alimentaria y la autonomía de los territorios.
               p.mb-0 En términos generales, la agroecología busca diseñar sistemas productivos que imiten el funcionamiento de los ecosistemas naturales, favoreciendo la biodiversidad, el reciclaje de nutrientes y la resiliencia frente a perturbaciones externas.
           .col-sm-12.col-lg-5.d-none.d-lg-block
-            img(src='@/assets/curso/temas/t1/3.png', alt='')
+            img(src='@/assets/curso/temas/t1/3.png')
   
         .row.justify-content-center.mb-0.align-items-end(titulo="Importancia de la agroecología")
           .col-sm-12.col-lg-11
@@ -131,11 +131,11 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/4.png', alt='')
+          img(src='@/assets/curso/temas/t1/4.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-1.align-items-center
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/5.svg', alt='')
+              img(src='@/assets/curso/temas/t1/5.svg')
             .col-sm-12.col-lg-10
                 p.mb-0 Los principios de la agroecología constituyen la base para el diseño y manejo de sistemas productivos sostenibles, resilientes y adaptados a las condiciones del territorio. Estos principios no solo orientan las prácticas agrícolas, sino que también integran dimensiones ecológicas, sociales, culturales y económicas, permitiendo una comprensión integral de los agroecosistemas.
 
@@ -145,7 +145,7 @@
         .py-3.py-md-4(titulo="Diversificación")  
           .row.justify-content-center.mb-5.align-items-end
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/6.png', alt='')
+              img(src='@/assets/curso/temas/t1/6.png')
             .col-sm-12.col-lg-6
               p.mb-4 La diversificación es uno de los pilares fundamentales de la agroecología y consiste en incorporar una mayor variedad de especies vegetales y animales dentro del sistema productivo. Esto puede lograrse mediante prácticas como policultivos, rotación de cultivos, asociaciones de especies y sistemas agroforestales.
               .bg-color-1.p-5
@@ -170,7 +170,7 @@
         .py-3.py-md-4(titulo="Reciclaje de nutrientes")  
           .row.justify-content-center.mb-5.align-items-end
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/7.png', alt='')
+              img(src='@/assets/curso/temas/t1/7.png')
             .col-sm-12.col-lg-6
               p.mb-4 El reciclaje de nutrientes busca cerrar los ciclos dentro del sistema productivo, aprovechando al máximo los recursos disponibles en el entorno. Este principio se basa en la reutilización de residuos orgánicos como estiércol, restos de cosecha, compost, abonos verdes y otros materiales biodegradables.
               .bg-color-1.p-5
@@ -195,7 +195,7 @@
         .py-3.py-md-4(titulo="Sinergias biológicas")  
           .row.justify-content-center.mb-0.align-items-end
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/8.png', alt='')
+              img(src='@/assets/curso/temas/t1/8.png')
             .col-sm-12.col-lg-6
               p.mb-4 Las sinergias biológicas se refieren a las interacciones positivas que se establecen entre los diferentes organismos dentro del agroecosistema. Estas relaciones pueden darse entre plantas, animales, microorganismos y otros componentes del sistema.
               .bg-color-1.p-5
@@ -297,41 +297,41 @@
         .tarjeta.bg-fondo-1.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img(src='@/assets/curso/temas/t1/10.svg' alt='')
+              img(src='@/assets/curso/temas/t1/10.svg')
           h4.text-center.fw-italic Trichogramma
           p.mb-0.text-center Parasitan huevos de insectos plaga.
 
         .tarjeta.bg-fondo-1.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img(src='@/assets/curso/temas/t1/11.svg' alt='')
+              img(src='@/assets/curso/temas/t1/11.svg')
           h4.text-center.fw-italic Coccinella septempunctata
           p.mb-0.text-center Un auténtico depredador de pulgones, cochinillas, ácaros y moscas blancas.
 
         .tarjeta.bg-fondo-1.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img(src='@/assets/curso/temas/t1/12.svg' alt='')
+              img(src='@/assets/curso/temas/t1/12.svg')
           h4.text-center.fw-italic Chrysoperla carnea
           p.mb-0.text-center Las larvas de las crisopas son depredadores generalistas.
 
         .tarjeta.bg-fondo-1.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img(src='@/assets/curso/temas/t1/13.svg' alt='')
+              img(src='@/assets/curso/temas/t1/13.svg')
           h4.text-center.fw-italic Episyrphus balteatus
           p.mb-0.text-center Sus larvas son voraces depredadores de pulgones, escamas, mosca blanca.
 
         .tarjeta.bg-fondo-1.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img(src='@/assets/curso/temas/t1/14.svg' alt='')
+              img(src='@/assets/curso/temas/t1/14.svg')
           h4.text-center.fw-italic Carcelia spp
           p.mb-0.text-center Parasitan a orugas y larvas defoliadoras como el gusano peludo.
         .tarjeta.bg-fondo-1.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img(src='@/assets/curso/temas/t1/15.svg' alt='')
+              img(src='@/assets/curso/temas/t1/15.svg')
           h4.text-center.fw-italic Cotesia marginiventris
           p.mb-0.text-center Esta avispa parasita orugas y larvas como el gusano cogollero
 
@@ -348,7 +348,7 @@
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-5.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/16.svg', alt='')
+                img(src='@/assets/curso/temas/t1/16.svg')
               .col-sm-12.col-lg-11
                   p.mb-0 Las bacterias beneficiosas cumplen un rol fundamental en la agricultura, ya que favorecen el desarrollo de los cultivos mediante distintas interacciones con las plantas. Entre sus principales aportes se destacan:
             h4.mb-3 Fijación de nitrógeno
@@ -364,7 +364,7 @@
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-5.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/17.svg', alt='')
+                img(src='@/assets/curso/temas/t1/17.svg')
               .col-sm-12.col-lg-11
                   p.mb-3 Los hongos son esenciales para el equilibrio y la salud del suelo, cumpliendo funciones clave como:
                   h4.mb-3 Descomposición de materia orgánica
@@ -375,7 +375,7 @@
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-0.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/18.svg', alt='')
+                img(src='@/assets/curso/temas/t1/18.svg')
               .col-sm-12.col-lg-11
                   p.mb-0 Este grupo de microorganismos es relevante en la descomposición de compuestos complejos como la celulosa y la quitina. Además, intervienen en la formación de humus, mejorando la estructura del suelo y su capacidad de retener agua y nutrientes.
         
@@ -383,7 +383,7 @@
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-0.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/19.svg', alt='')
+                img(src='@/assets/curso/temas/t1/19.svg')
               .col-sm-12.col-lg-11
                   p.mb-0 Las algas presentes en el suelo son organismos fotosintéticos que contribuyen a la producción de oxígeno, la estabilización del suelo y la conservación de la humedad. Son especialmente importantes en zonas áridas o semiáridas, donde ayudan a mantener la estructura del suelo.
         
@@ -421,7 +421,7 @@
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-5.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/20.svg', alt='')
+                img(src='@/assets/curso/temas/t1/20.svg')
               .col-sm-12.col-lg-11
                   p.mb-0 Este principio busca optimizar el aprovechamiento de los recursos disponibles en el territorio, como el agua, el suelo, la energía y los nutrientes. La agroecología promueve el uso racional y sostenible de estos recursos, evitando el desperdicio y la sobreexplotación.
             h4.mb-3 Entre las prácticas asociadas se encuentran:
@@ -443,7 +443,7 @@
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-5.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/21.svg', alt='')
+                img(src='@/assets/curso/temas/t1/21.svg')
               .col-sm-12.col-lg-11
                   p.mb-0 La resiliencia es la capacidad del sistema productivo para adaptarse y recuperarse frente a perturbaciones como cambios climáticos, crisis económicas o eventos naturales. En agroecología, este principio es clave para garantizar la estabilidad y continuidad de la producción.
             h4.mb-3 Los sistemas resilientes se caracterizan por:
@@ -466,7 +466,7 @@
           .col-sm-12.col-lg-11
             .row.justify-content-center.mb-5.align-items-center
               .col-sm-12.col-lg-1.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/22.svg', alt='')
+                img(src='@/assets/curso/temas/t1/22.svg')
               .col-sm-12.col-lg-11
                   p.mb-0 La cocreación de conocimiento reconoce que el aprendizaje es un proceso colectivo donde se integran saberes técnicos y conocimientos tradicionales. Este principio es fundamental en la agroecología, ya que permite construir soluciones contextualizadas y pertinentes.
             h4.mb-3 Se basa en:
@@ -525,14 +525,14 @@
               p.mb-0 La biodiversidad incluye la variedad de especies vegetales, animales y microorganismos presentes en el territorio. Esta diversidad favorece el equilibrio ecológico, contribuye al control natural de plagas, mejora la fertilidad del suelo y fortalece la resiliencia del sistema productivo
 
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/23.png', alt='')
+              img(src='@/assets/curso/temas/t1/23.png')
 
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t1/24.png', alt='')
+          img(src='@/assets/curso/temas/t1/24.png')
         .col-sm-12.col-lg-7.bg-color-3.p-4.br-3
-            img.wcus-2.mb-3(src='@/assets/curso/temas/t1/25.svg', alt='')
+            img.wcus-2.mb-3(src='@/assets/curso/temas/t1/25.svg')
             h4.mb-5.tit-icon Actores sociales (campesinos, organizaciones)
             p.mb-3 Los actores sociales son fundamentales en la gestión del territorio, ya que son quienes toman decisiones, implementan prácticas productivas y transmiten conocimientos. Entre ellos se encuentran los campesinos, asociaciones, cooperativas, instituciones y organizaciones comunitarias.
             p.mb-3 Su participación permite:
@@ -556,9 +556,9 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img.wcus-3(src='@/assets/curso/temas/t1/26.png', alt='')
+          img.wcus-3(src='@/assets/curso/temas/t1/26.png')
         .col-sm-12.col-lg-4.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t1/27.svg', alt='')
+          img(src='@/assets/curso/temas/t1/27.svg')
         .col-sm-12.col-lg-5.bg-color-4.p-5
             p.mb-3 Estos elementos culturales aportan:
             ul.lista-ul--color.mb-3
@@ -581,7 +581,7 @@
       h4.mb-5.tit-icon(data-aos='fade-right') Infraestructura y acceso a mercados
       .row.justify-content-center.mb-5(data-aos='fade-right')
          .col-sm-12.col-lg-5.d-none.d-lg-block
-           img(src='@/assets/curso/temas/t1/28.png', alt='')
+           img(src='@/assets/curso/temas/t1/28.png')
          .col-sm-12.col-lg-7
             p.mb-2 La infraestructura comprende los medios físicos que facilitan la producción, transformación y comercialización de productos agrícolas, como vías de acceso, sistemas de riego, centros de acopio y transporte.
             p.mb-3 El acceso a mercados es fundamental para garantizar la sostenibilidad económica de los productores, permitiendo la comercialización de sus productos en condiciones justas.
@@ -589,7 +589,7 @@
             .bg-color-1.p-4.mb-3
               .row.justify-content-center.mb-0.align-items-center
                 .col-sm-12.col-lg-2.d-none.d-lg-block
-                  img(src='@/assets/curso/temas/t1/28.svg', alt='')
+                  img(src='@/assets/curso/temas/t1/28.svg')
                 .col-sm-12.col-lg-10
                   h5 Estos elementos influyen en:
                   ul.lista-ul--color.mb-0
@@ -625,7 +625,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/30.png', alt='')
+          img(src='@/assets/curso/temas/t1/30.png')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-acento-botones.mb-0
             .row.mb-0(numero="1" titulo="Reconocimiento de la diversidad local")
@@ -655,7 +655,7 @@
 
       .row.justify-content-center.mb-5.align-items-center.bg-color-1.p-4(data-aos="fade-right")
         .col-sm-12.col-lg-1.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/31.svg', alt='')
+          img(src='@/assets/curso/temas/t1/31.svg')
         .col-sm-12.col-lg-11
             p.mb-0 Los saberes y conocimientos campesinos son el resultado de procesos históricos de aprendizaje construidos a partir de la experiencia directa, la observación del entorno y la transmisión de generación en generación. Estos conocimientos se desarrollan en estrecha relación con el territorio, permitiendo a las comunidades rurales comprender los ciclos naturales, interpretar señales del ambiente y tomar decisiones productivas adecuadas.
       p.mb-5(data-aos='fade-right') A diferencia del conocimiento técnico formal, los saberes campesinos no siempre están sistematizados, pero poseen una alta capacidad de adaptación y una profunda conexión con la realidad local. En el enfoque agroecológico, estos conocimientos son fundamentales, ya que aportan soluciones prácticas, sostenibles y contextualizadas.
@@ -667,7 +667,7 @@
             PasosB.color-acento-botones
               .row.justify-content-center.mb-0
                 .col-sm-12.col-lg-5.d-none.d-lg-block
-                  img(src='@/assets/curso/temas/t1/32.png', alt='')
+                  img(src='@/assets/curso/temas/t1/32.png')
                 .col-sm-12.col-lg-6
                   h5.mb-4 Características
                   p.mb-3 Los saberes campesinos presentan una serie de características que los diferencian y les otorgan valor dentro de los sistemas productivos:
@@ -686,7 +686,7 @@
                       p.mb-0 #[b Colectivos:] se construyen y transmiten dentro de la comunidad, fortaleciendo la identidad y el trabajo colaborativo. El conocimiento no pertenece a un individuo, sino al colectivo. 
               .row.justify-content-center.mb-0
                 .col-sm-12.col-lg-5.d-none.d-lg-block
-                  img(src='@/assets/curso/temas/t1/33.png', alt='')
+                  img(src='@/assets/curso/temas/t1/33.png')
                 .col-sm-12.col-lg-6
                   h5.mb-4 Ejemplos
                   p.mb-4 Los saberes campesinos se manifiestan en múltiples prácticas que han demostrado su eficacia a lo largo del tiempo.
@@ -705,7 +705,7 @@
                       p.mb-0 #[b Asociaciones de cultivos:] consiste en sembrar diferentes especies en un mismo espacio para aprovechar beneficios mutuos, como el control de plagas y el uso eficiente de nutrientes.  
               .row.justify-content-center.mb-0
                 .col-sm-12.col-lg-5.d-none.d-lg-block
-                  img(src='@/assets/curso/temas/t1/34.png', alt='')
+                  img(src='@/assets/curso/temas/t1/34.png')
                 .col-sm-12.col-lg-6
                   h5.mb-3 Importancia
                   p.mb-2 Los saberes campesinos son fundamentales para el desarrollo de sistemas agroecológicos sostenibles, ya que aportan múltiples beneficios.
@@ -750,7 +750,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/35.png', alt='')
+          img(src='@/assets/curso/temas/t1/35.png')
         .col-sm-12.col-lg-7
             p.mb-4 La producción agrícola no puede entenderse únicamente desde una perspectiva técnica o económica; está profundamente influenciada por la cultura y por las condiciones propias del territorio. En los sistemas agroecológicos, esta relación es esencial, ya que permite comprender que las prácticas productivas son el resultado de procesos históricos, sociales y ambientales que configuran la identidad de las comunidades rurales.
             p.mb-0 La cultura orienta las decisiones sobre qué, cómo y cuándo producir; el territorio establece las condiciones y limitantes naturales; y la producción, a su vez, expresa la forma en que las comunidades se relacionan con su entorno. Esta interacción permanente da lugar a sistemas productivos únicos, adaptados y con significado social.
@@ -799,9 +799,9 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/39.png', alt='')
+          img(src='@/assets/curso/temas/t1/39.png')
         .col-sm-12.col-lg-4.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t1/40.svg', alt='')
+          img(src='@/assets/curso/temas/t1/40.svg')
         .col-sm-12.col-lg-5.bg-color-4.px-5.pt-5
             ul.lista-ul--color.mb-3
                 li.d-flex.mb-0
